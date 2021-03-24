@@ -53,7 +53,6 @@ plt.plot(X, Y, "o", color='#484848', ms=3.5, label='samples')
 plt.xlabel('x'), plt.ylabel('f(x)')
 plt.title('Exact GP with ' + str(N) + ' samples')
 plt_xmin, plt_xmax, plt_ymin, plt_ymax = plt.axis()
-fig.savefig("Ackley_samples.pdf", bbox_inches='tight')
 
 ##############################
 # Sparse GP part
