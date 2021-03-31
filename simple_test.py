@@ -2,6 +2,8 @@
 Author: Emilio Maddalena
 Date: March 2021
 
+Hello, this is a change
+
 A simple GP regression example
 '''
 import numpy as np
